@@ -1,0 +1,56 @@
+ticket_id,ticket_text,category,issue_type,priority,assigned_team,sentiment,resolution
+INC1001,My password expired and I cannot log in to the company portal.,Account & Access,Password Reset,MEDIUM,Identity & Access,negative,Reset password and verify account access.
+INC1002,I forgot my VPN password and need access from home.,Account & Access,Password Reset,HIGH,Identity & Access,negative,Reset VPN credentials and verify MFA.
+INC1003,My account is locked after several incorrect login attempts.,Account & Access,Login Failure,HIGH,Identity & Access,negative,Unlock the account and verify authentication.
+INC1004,I keep getting an invalid credentials message when signing in.,Account & Access,Login Failure,MEDIUM,Identity & Access,negative,Verify credentials and account status.
+INC1005,Please grant me access to the finance application.,Account & Access,Access Request,LOW,Identity & Access,neutral,Verify approval and provision requested access.
+INC1006,I need permission to access the shared HR folder.,Account & Access,Access Request,LOW,Identity & Access,neutral,Check authorization and update folder permissions.
+INC1007,My laptop will not turn on this morning.,Hardware,Laptop Failure,CRITICAL,Desktop Support,negative,"Check power, adapter, battery and hardware diagnostics."
+INC1008,The laptop screen is flickering and goes black randomly.,Hardware,Laptop Failure,HIGH,Desktop Support,negative,Run display diagnostics and inspect hardware connections.
+INC1009,My keyboard is not responding to several keys.,Hardware,Peripheral Issue,MEDIUM,Desktop Support,negative,Reconnect or replace the keyboard and test the device.
+INC1010,The office printer is not printing my documents.,Hardware,Printer Issue,MEDIUM,Desktop Support,negative,"Check printer connectivity, queue and device status."
+INC1011,My laptop became extremely slow after the latest Windows update.,Software,System Performance,HIGH,Desktop Support,negative,Review recent updates and system resource utilization.
+INC1012,The system takes several minutes to open applications.,Software,System Performance,MEDIUM,Desktop Support,negative,"Check startup processes, resource usage and disk health."
+INC1013,Excel crashes every time I open a large workbook.,Software,Application Crash,HIGH,Application Support,negative,"Check application logs, add-ins and compatibility."
+INC1014,Outlook closes immediately after I launch it.,Software,Application Crash,HIGH,Application Support,negative,Repair the application profile and inspect crash logs.
+INC1015,The Wi-Fi keeps disconnecting in the meeting room.,Network,Wi-Fi Issue,HIGH,Network Support,negative,"Check access-point connectivity, signal and interference."
+INC1016,I cannot connect to the office wireless network.,Network,Wi-Fi Issue,HIGH,Network Support,negative,Verify wireless credentials and access-point availability.
+INC1017,VPN connects but I cannot reach internal applications.,Network,VPN Issue,HIGH,Network Support,negative,"Check VPN routing, DNS and internal access."
+INC1018,The VPN connection drops every few minutes.,Network,VPN Issue,HIGH,Network Support,negative,"Review VPN logs, network stability and client configuration."
+INC1019,Emails are not syncing on my phone.,Email,Email Sync,MEDIUM,Email Support,negative,Verify mailbox synchronization and connectivity.
+INC1020,Outlook is not receiving new emails.,Email,Email Sync,HIGH,Email Support,negative,Check mailbox status and synchronization.
+INC1021,I received a suspicious email asking for my password.,Security,Phishing,CRITICAL,Security Team,negative,Report the message and investigate phishing indicators.
+INC1022,This email contains a strange link and looks like phishing.,Security,Phishing,CRITICAL,Security Team,negative,Analyze the message and block malicious indicators if confirmed.
+INC1023,My computer may have malware because unknown programs appeared.,Security,Malware,CRITICAL,Security Team,negative,Isolate the endpoint and run security investigation.
+INC1024,Antivirus reported a possible malicious file on my laptop.,Security,Malware,CRITICAL,Security Team,negative,Quarantine the file and investigate the endpoint.
+INC1025,I need a new application installed for my project.,Software,Software Installation,LOW,Application Support,neutral,Verify approval and install the required application.
+INC1026,Please install the latest approved version of the reporting tool.,Software,Software Installation,LOW,Application Support,neutral,Confirm approval and deploy requested software.
+INC1027,My password reset link is not working.,Account & Access,Password Reset,MEDIUM,Identity & Access,negative,Issue a new reset link and verify account recovery.
+INC1028,I cannot sign into the payroll system.,Account & Access,Login Failure,HIGH,Identity & Access,negative,"Verify account status, credentials and application access."
+INC1029,The monitor connected to my workstation has no display.,Hardware,Peripheral Issue,MEDIUM,Desktop Support,negative,"Check cable connections, input source and monitor power."
+INC1030,The printer shows an offline status.,Hardware,Printer Issue,MEDIUM,Desktop Support,negative,Check printer network connection and device status.
+INC1031,My laptop is freezing during normal work.,Software,System Performance,HIGH,Desktop Support,negative,"Check CPU, memory, disk utilization and recent changes."
+INC1032,The accounting application crashes when I generate a report.,Software,Application Crash,HIGH,Application Support,negative,Inspect application logs and reproduce the crash.
+INC1033,Network access is unavailable on my desktop.,Network,Network Connectivity,HIGH,Network Support,negative,"Check physical connectivity, DHCP and network availability."
+INC1034,The internet is very slow across the office.,Network,Network Connectivity,HIGH,Network Support,negative,"Check network utilization, routing and service health."
+INC1035,I cannot access the shared drive through VPN.,Network,VPN Issue,HIGH,Network Support,negative,"Verify VPN tunnel, routing and shared-drive access."
+INC1036,I accidentally clicked a suspicious attachment.,Security,Phishing,CRITICAL,Security Team,negative,Isolate the endpoint and inspect security indicators.
+INC1037,My mailbox is full and I cannot receive messages.,Email,Mailbox Issue,MEDIUM,Email Support,negative,Review mailbox quota and archive unnecessary messages.
+INC1038,I need access to the project email group.,Email,Email Access,LOW,Email Support,neutral,Verify approval and add the user to the authorized group.
+INC1039,The company laptop battery drains very quickly.,Hardware,Laptop Failure,MEDIUM,Desktop Support,negative,Check battery health and power-management settings.
+INC1040,A critical business application is down for the whole team.,Software,Application Outage,CRITICAL,Application Support,negative,Escalate immediately and investigate service availability.
+INC1041,I cannot connect to Wi-Fi after changing my password.,Network,Wi-Fi Issue,MEDIUM,Network Support,negative,Reconnect the wireless profile and verify credentials.
+INC1042,My Outlook calendar is not updating.,Email,Email Sync,MEDIUM,Email Support,negative,Check account synchronization and client connectivity.
+INC1043,Please give me access to the development repository.,Account & Access,Access Request,LOW,Identity & Access,neutral,Verify approval and provision repository access.
+INC1044,The laptop fan is running constantly and everything is slow.,Hardware,Laptop Failure,MEDIUM,Desktop Support,negative,"Check thermal conditions, CPU usage and hardware health."
+INC1045,A security alert says a suspicious process is running.,Security,Malware,CRITICAL,Security Team,negative,Isolate the endpoint and investigate the suspicious process.
+INC1046,I cannot print to the finance department printer.,Hardware,Printer Issue,MEDIUM,Desktop Support,negative,"Check printer queue, permissions and connectivity."
+INC1047,The browser crashes whenever I open the internal dashboard.,Software,Application Crash,MEDIUM,Application Support,negative,"Check browser extensions, cache and compatibility."
+INC1048,VPN authentication fails even though my password is correct.,Network,VPN Issue,HIGH,Network Support,negative,"Verify VPN authentication, MFA and client configuration."
+INC1049,I received a message requesting confidential company information.,Security,Phishing,CRITICAL,Security Team,negative,Report and investigate the message for phishing indicators.
+INC1050,My desktop has no network connection.,Network,Network Connectivity,HIGH,Network Support,negative,"Check Ethernet connection, adapter and DHCP."
+INC1051,Laptop became slow after Windows update and applications take longer to open.,Software,System Performance,HIGH,Desktop Support,negative,Review recent updates and system resource utilization.
+INC1052,Suspicious email asks me to click a link and enter my password.,Security,Phishing,CRITICAL,Security Team,negative,Report the message and investigate phishing indicators.
+INC1053,Cannot connect to the office Wi-Fi in the conference room.,Network,Wi-Fi Issue,HIGH,Network Support,negative,Verify wireless credentials and access-point availability.
+INC1054,Outlook does not receive new messages on my computer.,Email,Email Sync,HIGH,Email Support,negative,Check mailbox status and synchronization.
+INC1055,My account is locked and I cannot sign in.,Account & Access,Login Failure,HIGH,Identity & Access,negative,Unlock the account and verify authentication.
